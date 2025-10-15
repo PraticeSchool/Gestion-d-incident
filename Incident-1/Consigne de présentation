@@ -1,0 +1,16 @@
+Consignes pour la présentation en groupe :
+
+1. Définir les concepts techniques des mails : DKIM, DMARC, SPF, X-Haraka-Karma
+
+
+2. Détails de l’enquête :
+
+- Décrire le contexte de l’incident ou de l’attaque.
+
+- Mesures d’investigation entreprises : Présenter les observations faites et les éléments collectés (ex. collecte de logs, analyse des en-têtes emails, vérification de la réputation IP, etc.).
+
+- Séquence d’attaque (Kill Chain) : Reconstituer chronologiquement les étapes de l’attaque en utilisant le modèle de la Kill Chain.
+
+- Actions préconisées : Proposer des mesures correctives et préventives pour limiter l’impact et éviter la récurrence de l’attaque.
+
+- Informations complémentaires (facultatif) : Ajouter tout élément supplémentaire pertinent (technique, organisationnel ou contextuel) pour compléter l’analyse.
