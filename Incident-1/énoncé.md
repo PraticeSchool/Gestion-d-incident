@@ -9,9 +9,28 @@ Passé le niveau 1, Steel Door Data Protection dispose d’une configuration uni
 
 
 Votre superviseure, l’analyste principale Fatima Osei, vous a confié ce matin votre première mission dans ce mail : 
-![Email](Email_Responsable_Investigation.png)
 
+------------- ------------------------ ------------------------------ ---------------------------------- ----------------------------------------
+Objet : Première mission : Alertes d’hameçonnage
 
+Bonjour !
+J’ai une première mission à te confier. Nous avons reçu deux alertes d’hameçonnage de la part de membres de deux services différents, que tu trouveras en pièce jointe. J’aimerais que tu les examines.
+
+Pour chaque incident :
+
+Recueille autant d’informations que possible sur l’incident. Tu peux utiliser les outils énumérés ci-dessous et les journaux de notre système de gestion des informations et des événements de sécurité (SIEM), ainsi que toute autre source reprise dans les tickets d’alerte.
+Rédige ensuite un rapport d’incident décrivant les faits. Inclus les détails de l’attaque, toutes les informations que tu as recueillies et toutes les recommandations que tu as formulées. L’équipe d’intervention se basera sur ton rapport pour élaborer un plan d’action.
+ 
+Tu peux utiliser les outils suivants pour recueillir tes informations :
+- MXToolbox
+- Whois
+ 
+Envoie-moi ton (tes) e-mail(s) et ton rapport d’incident pour vérification avant de les expédier. Je passerai dans ton bureau pour un débriefing en fin de journée, sois prêt à me présenter votre documentation et à m’expliquer vos choix. Bien que tu ne sois pas en charge de la mise en œuvre de bonnes pratiques de sécurité telles que le sandboxing, je pourrai te poser des questions à ce sujet pour m’assurer que l’enquête s’est déroulée dans les meilleures conditions possibles.
+
+Je t’enverrai les tickets d’alerte originaux soumis par les utilisateurs. Restons en contact ! 
+Merci.
+
+------------------------------------- -------------------------------- ----------------------------------- -------------------------------------
 Recommandations : 
 
 Vérifiez le ticket :
