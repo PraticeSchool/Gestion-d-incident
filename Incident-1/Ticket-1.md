@@ -35,6 +35,6 @@ Développeuse junior
 
 
 Pièces jointes :
-![Texte alternatif](Ticket-1Screenshot-1-Email-Inbox.png)
-![Texte alternatif](Ticket-1-Screenshot-3-Password-Reset-Form.png)
-![Texte alternatif](Ticket-1-Screenshot-2-Open-Email.png)
+![Texte alternatif](Image/Ticket-1Screenshot-1-Email-Inbox.png)
+![Texte alternatif](Image/Ticket-1-Screenshot-3-Password-Reset-Form.png)
+![Texte alternatif](Image/Ticket-1-Screenshot-2-Open-Email.png)
